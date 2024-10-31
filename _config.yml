@@ -17,8 +17,7 @@ minimal: true             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: "Hola"}
-  - {file: "aboutMe.md", title: "Sobre mí"}
-  - {}
+  - {file: "/aboutMe.md", title: "Sobre mí"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:p.villarejoperez@gmail.com"}
