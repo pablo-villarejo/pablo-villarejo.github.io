@@ -16,13 +16,13 @@ minimal: true             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", title: "Hola"}
+  - {file: "index.html", title: "Holaaa"}
   - {file: "aboutMe.md", title: "Sobre mí"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:p.villarejoperez@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/pablo-villarejo"}
-  - {title: LinkedIn, icon: fa-linkedin, url: "https://www.linkedin.com/in/pablo-villarejo/"}
+  - {title: LinkedIn, icon: "fab fa-linkedin", url: "https://www.linkedin.com/in/pablo-villarejo/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
