@@ -5,7 +5,7 @@ title: ""
 
 # Sobre mí
 
-**Estudiante de Ingeniería de Software** en la etapa final de mi carrera. Actualmente, estoy explorando distintas áreas del desarrollo software para encontrar mi enfoque ideal. Me gustan los desafíos y aprender nuevas habilidades, así que estoy abierto a cualquier experiencia que me permita desarrollarme tanto en lo personal como en lo profesional.
+**Estudiante de Ingeniería de Software** en la etapa final de mi carrera. Actualmente, estoy explorando distintas áreas del desarrollo software para encontrar mi enfoque ideal. Me gustan los desafíos y aprender nuevas habilidades, así que estoy abierto a cualquier experiencia que me permita desarrollarme tanto en lo personal como en lo profesional. Ah, y amo mucho a Luz María.
 
 ---
 
