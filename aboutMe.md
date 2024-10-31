@@ -1,6 +1,6 @@
 ---
 laoyout: page
-title: "Sobre mí"
+title: ""
 ---
 
 # Sobre mí
